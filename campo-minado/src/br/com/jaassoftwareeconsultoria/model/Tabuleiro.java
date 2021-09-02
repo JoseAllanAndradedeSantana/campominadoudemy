@@ -8,6 +8,7 @@ import br.com.jaassoftwareeconsultoria.exception.ExplosaoException;
 
 public class Tabuleiro {
 
+	
 	private int quantidadeLinhas;
 	private int quantidadeColunas;
 	private int quantidadeMinas;

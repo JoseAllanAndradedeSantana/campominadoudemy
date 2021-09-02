@@ -18,6 +18,7 @@ public class TabuleiroConsole {
 		this.tabuleiro = tabuleiro;
 		
 		executarJogo();
+		
 	}
 
 	private void executarJogo() {

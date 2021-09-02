@@ -11,7 +11,7 @@ public class Aplicacao {
 		new TabuleiroConsole(tabuleiro);
 		//tabuleiro.abrirCampo(3, 3);
 		//System.out.println(tabuleiro);
-		
+		 
 		
 		
 		

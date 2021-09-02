@@ -7,6 +7,7 @@ import br.com.jaassoftwareeconsultoria.exception.ExplosaoException;
 import java.util.ArrayList;
 
 public class Campo {
+	
 
 	private final int linha;
 	private final int coluna;
